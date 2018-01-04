@@ -1,0 +1,5 @@
+
+username: tomcat
+password: s3cret
+artifact: /home/kseniia/workspace_test/deploy-util/src/test/resources/sample.war
+serverUrl: http://localhost:8081
